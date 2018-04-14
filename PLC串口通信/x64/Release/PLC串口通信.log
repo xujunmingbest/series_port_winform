@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+e:\clr\plc串口通信\plc串口通信\MyForm.h(57): warning C4101: “e”: 未引用的局部变量
+e:\clr\plc串口通信\plc串口通信\MyForm.h(83): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\clr\plc串口通信\plc串口通信\MyForm.h(82): warning C4477: “snprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“System::String ^”
+e:\clr\plc串口通信\plc串口通信\MyForm.h(101): warning C4101: “e”: 未引用的局部变量
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  PLC串口通信.vcxproj -> E:\clr\PLC串口通信\x64\Release\PLC串口通信.exe
+  PLC串口通信.vcxproj -> E:\clr\PLC串口通信\x64\Release\PLC串口通信.pdb (Full PDB)
